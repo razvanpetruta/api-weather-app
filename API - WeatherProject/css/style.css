@@ -1,0 +1,74 @@
+/* FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Ubuntu:wght@300;400;500;700&display=swap');
+
+body
+{
+    background-color: #003638;
+    color: #fff;
+    font-family: "Ubuntu";
+    text-align: center;
+}
+
+h1
+{
+    color: #003638;
+    font-family: "Pacifico", cursive;
+    font-weight: 300;
+    font-size: 2rem;
+    text-shadow: 1px 2px white;
+}
+
+.center
+{
+    margin: auto;
+}
+
+#title
+{
+    background-color: #B5EAEA;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.col-custom
+{
+    margin: auto;
+    padding: 10%;
+}
+
+.title-image
+{
+    width: 30%;
+}
+
+#content
+{
+    padding: 7% 15%;
+}
+
+.btn
+{
+    height: 60%;
+    width: 100px;
+    margin-top: 10px;
+}
+
+.result
+{
+    background-color: #B5EAEA;
+    color: #003638;
+    padding: 5%;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.error-img
+{
+    width: 30%;
+}
+
+.city
+{
+    border-radius: 10px;
+    border: none;
+}
