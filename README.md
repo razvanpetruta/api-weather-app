@@ -7,8 +7,6 @@ Using node.js, express and APIs I was able to build two basic projects.
 In this app I used [OpenWeatherMap api](https://openweathermap.org/api) and basically
  you can enter your city and find information about the current weather.
 
-- [try](https://stormy-ravine-23922.herokuapp.com/)
-
 ## Newsletter signup
 
 For this one I used [Mailchimp api](https://mailchimp.com/developer/) to make a signup page
